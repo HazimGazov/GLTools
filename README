@@ -27,7 +27,7 @@ NOTE: I only tested the build process under Ubuntu 10.04, if there are any issue
 
 List of packages needed for compilation on Ubuntu:
 
-libx11-dev freeglut3-dev libglu1-mesa-dev libxcb1-dev libxext-dev libxxf86vm-dev libxi-dev glew-utils libglew1.5-dev
+build-essential g++ cmake libx11-dev freeglut3-dev libglu1-mesa-dev libxcb1-dev libxext-dev libxxf86vm-dev libxi-dev glew-utils libglew1.5-dev
 
 To compile and install GLTools:
 
