@@ -29,10 +29,10 @@ set ( INCLUDE_DIRS
 
 if(UNIX)
 	set ( INCLUDE_DIRS 
-	"/usr/include"
-	"/usr/local/include"
-	"/usr/include/GL"
-	${INCLUDE_DIRS}
+		"/usr/include"
+		"/usr/local/include"
+		"/usr/include/GL"
+		${INCLUDE_DIRS}
 	)
 endif(UNIX)
 
