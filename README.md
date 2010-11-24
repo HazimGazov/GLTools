@@ -16,6 +16,8 @@ companion source code for the book all rebuild GLTools from scratch and statical
 For this distribution, I removed the included copy of GLEW and wrote some CMake files to make it easier to use
 with your own programs.
 
+The official repository is available at http://code.google.com/p/oglsuperbible5/
+
 **NOTE**: I only tested the build process under Ubuntu 10.04, if there are any issues on other platforms, patches are appreciated.
 
 COMPILATION AND INSTALLATION
