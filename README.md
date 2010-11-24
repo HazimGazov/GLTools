@@ -5,8 +5,8 @@ This is a stand alone package for GLTools. According to the OpenGL SuperBible, w
 
 >GLTools began life in the third edition of this
 >book. Over time it has grown and provides a lot of shortcuts and handy tools, much like
->the OpenGL utility library (GLU) used to. GLTools includes a 3D math library to manipu-
->late matrices and vectors and relies on GLEW for full OpenGL 3.3 support of functions
+>the OpenGL utility library (GLU) used to. GLTools includes a 3D math library to manipulate
+>matrices and vectors and relies on GLEW for full OpenGL 3.3 support of functions
 >that generate and render some simple 3D objects and manage your view frustum, camera,
 >and transformation matrices
 
