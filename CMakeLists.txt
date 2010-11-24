@@ -56,6 +56,7 @@ set ( GLTOOLS_HDRS
 )
 
 set ( GLTOOLS_SRCS
+	"${CMAKE_SOURCE_DIR}/src/GLBatch.cpp"
 	"${CMAKE_SOURCE_DIR}/src/GLShaderManager.cpp"
 	"${CMAKE_SOURCE_DIR}/src/GLTools.cpp"
 	"${CMAKE_SOURCE_DIR}/src/GLTriangleBatch.cpp"
