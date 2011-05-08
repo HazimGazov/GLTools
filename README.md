@@ -33,5 +33,6 @@ To compile and install GLTools:
     cmake ..
     make
     sudo make install
+    sudo ldconfig
 
 By default, headers will be in */usr/local/include* and libraries will be in */usr/local/lib*
