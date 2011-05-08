@@ -25,7 +25,7 @@ COMPILATION AND INSTALLATION
 
 List of packages needed for compilation on Ubuntu:
 
-    build-essential g++ cmake libx11-dev freeglut3-dev libglu1-mesa-dev libxcb1-dev libxext-dev libxxf86vm-dev libxi-dev glew-utils libglew1.5-dev
+    build-essential g++ cmake libx11-dev freeglut3-dev libglu1-mesa-dev libxcb1-dev libxext-dev libxxf86vm-dev libxi-dev libxmu-dev glew-utils libglew1.5-dev
 
 To compile and install GLTools:
 
